@@ -4,26 +4,14 @@
 
 ---
 
-## 📖 Overview
-RAG pipeline to search, index, and query information directly from YouTube video transcripts.
+## 📋 Project Specifications
 
----
-
-## 📊 Project Specifications
-
-### 1. Dataset Details
-* **Source**: Video transcript feeds
-* **Size**: 100+ raw video transcripts
-
-### 2. Method & Approach
-* **Approach**: Video URL transcript scraping, chunking, embedding index, and QA generation
-* **Metric/Result**: Indexes 1-hour videos in under 3 seconds and answers timeline queries correctly
-
-### 3. Tech Stack & Tools
-* **Technologies**: Python, YouTube Transcript API, LangChain, FAISS
-
-### ✨ Differentiating Features
-- **Outputs direct timestamps pointing users to the exact moment in the video where the answer resides**
+* **Overview**: "RAG pipeline to search, index, and query information directly from YouTube video transcripts."
+* **Dataset**: "Video transcript feeds, 100+ raw video transcripts"
+* **Method**: "Video URL transcript scraping, chunking, embedding index, and QA generation"
+* **Results**: "Indexes 1-hour videos in under 3 seconds and answers timeline queries correctly"
+* **Tech stack**: "Python, YouTube Transcript API, LangChain, FAISS"
+* **Unique feature**: "Outputs direct timestamps pointing users to the exact moment in the video where the answer resides"
 
 ---
 
